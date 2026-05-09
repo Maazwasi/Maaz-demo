@@ -1,5 +1,5 @@
 # Maaz-demo
 This is my first Repository.
 <br>
-Author-Maaz Wasi
+Author-Mohammad Maaz Wasi
 
